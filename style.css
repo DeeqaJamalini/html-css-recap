@@ -1,0 +1,68 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@500&family=Anton&family=Noto+Sans+JP:wght@100;500&family=Noto+Sans+Linear+B&family=Roboto:wght@500&display=swap');
+
+
+* {
+    padding: 0;
+    margin: 0
+}
+
+header {
+background-color: #333;
+color: white;
+padding: 20px;
+}
+
+nav a {
+    padding: 10px;
+    text-decoration: none;
+    color: red;
+
+}
+
+.heading {
+    font-family: "alkatra";
+}
+
+p {
+    font-family: "Noto Sans JP";
+}
+
+nav ul a {
+    color: green;
+}
+
+nav li{
+    background-color: blueviolet;
+    
+    margin: 10px
+}
+
+nav li :hover{
+    background-color: grey;
+}
+
+.heading {
+    margin: 10px;
+    font-size: 30px;
+    font-family: "Roboto",;
+    
+}
+
+.project {
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.projects {
+    background-color: grey;
+}
+
+.title-class {
+    color: aqua;
+}
+
+#title {
+    color: yellow;
+}
+
